@@ -1,0 +1,12 @@
+{
+    "name": "zf-github/test-heroku-cd-zf",
+    "description": "Testiranje GitHug Actions CI sustava",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9",
+        "monolog/monolog": "^2"
+    }
+}
