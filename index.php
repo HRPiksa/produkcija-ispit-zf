@@ -47,6 +47,9 @@
     <br>
 
     <a href="add.php"><button>Dodavanje člana</button></a>
+    
+    <br><br><br><br><br>
+    Ovo je dodao predavač!
 </body>
 
 </html>
